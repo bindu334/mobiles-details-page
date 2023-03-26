@@ -13,7 +13,7 @@ html>
 <li> Brand:brand name</li
 ><li>model :model name</li>
 <li>color: black color</li>
-<li>price:$599</li>6
+<li>price:$599</li>
 <h2><font color="red">Avaliable mobiles</h2></font><br>
 mobile name storage ram price </br>
 <body bgcolor="sky blue">
