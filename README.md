@@ -1,6 +1,7 @@
 html>
 <head>
 <title>
+  details of the product
 </title>
 </head>
 <body>
