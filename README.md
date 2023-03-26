@@ -24,4 +24,5 @@ mobile 3 512 GB 16GB $699.99</br>
 </header>
 </body>
 <hr><marquee bgcolor="><font color="yellow">currently  these mobiles are avaliable</font><hr>
+  </marquee>
 </html>
