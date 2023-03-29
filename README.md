@@ -5,6 +5,7 @@
 </title>
 </head>
 <body>
+<h1>IEKART SHOPPING</H1>
 <li><a href="#">Home</a></li>
 <li><a href="#">product</a></li>
 <li><a href="#">cart</a></li>
@@ -15,12 +16,12 @@
 ><li>model :model name</li>
 <li>color: black color</li>
 <li>price:$599</li>
-<h2><font color="red">Avaliable mobiles</h2></font><br>
+<h2><font color="red">Avaliable mobiles</h2></font>
 mobile name storage ram price </br>
 <body bgcolor="sky blue">
-mobile 1 128 GB 8GB $599.99</br>
-mobile 2 256 GB 12GB $699.99</br>
-mobile 3 512 GB 16GB $699.99</br>
+<LI><a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thechennaimobiles.com%2F&psig=AOvVaw0mDjFOd77c6e-mVjtbyVtI&ust=1680169511689000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPiViKztgP4CFQAAAAAdAAAAABAD">chennai mobiles</a></br>
+<li><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0-AggjFe4ZOLrwYjo6GQXhOjpaXMaeacRKA&usqp=CAU" >oppA16k mobile</a></li>
+
 
 </header>
 </body>
