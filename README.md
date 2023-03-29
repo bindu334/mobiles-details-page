@@ -18,7 +18,7 @@
 <li>price:$599</li>
 <h2><font color="red">Avaliable mobiles</h2></font>
 mobile name storage ram price </br>
-<body bgcolor="sky blue">
+<body bgcolor="#E9967A">
 <LI><a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thechennaimobiles.com%2F&psig=AOvVaw0mDjFOd77c6e-mVjtbyVtI&ust=1680169511689000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPiViKztgP4CFQAAAAAdAAAAABAD">chennai mobiles</a></br>
 <li><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0-AggjFe4ZOLrwYjo6GQXhOjpaXMaeacRKA&usqp=CAU" >oppA16k mobile</a></li>
 
